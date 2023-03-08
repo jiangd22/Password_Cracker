@@ -14,5 +14,6 @@ Cracked.txt has all my cracked password. It should be 41 cracked and 14 uncracke
 Thanks ;)
 
 **Importent: Because there is two separate attack, you have to run one first and fill in the rest by running the other one.
+
 ***Importent: There might also be overlape in passwords when running both attack. Just ignore. Thanks ;)
 
