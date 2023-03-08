@@ -1,5 +1,4 @@
 # Password_Cracker
-Brute force and Dictionary Attack
 
 
 To whomever is running and checking my code. I split my code into 2 different separated main files. 
